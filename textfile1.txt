@@ -1,8 +1,12 @@
- HEAD modified file to merge
+<<<<<<< HEAD
+
 hello I have modified the file hello hai welcome git GitHub uses the email address set in your local Git configuration to associate commits pushed from the command line with your GitHub account.
 
  This is modified file to git welcome GitHub uses the email address set in your local Git configuration to associate commits pushed from the command line with your GitHub account.
  b26a2ac7f4685f4384fcda541f0dc1e31f2755d5
+=======
+ madified as text This is modified file to git welcome GitHub uses the email address set in your local Git configuration to associate commits pushed from the command line with your GitHub account.
+>>>>>>> changed file
 
 You can use the git config command to change the email address you associate with your Git commits.
  The new email address you set will be visible in any future commits you push to GitHub from the command line.
