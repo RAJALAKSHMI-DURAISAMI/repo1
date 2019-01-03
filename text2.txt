@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-hello ram
-=======
-welcome mahi
->>>>>>> 6fa5f1355650567041ebe74abe989cbda3382716
+You can change the email address associated with commits you make in a single repository.
+ This will override your global Git config settings in this one repository,
+ but will not affect any other repositories.
