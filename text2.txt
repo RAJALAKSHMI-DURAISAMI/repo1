@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-made change You can change the email address associated with commits you make in a single repository.
-=======
-made change here You can change the email address associated with commits you make in a single repository.
->>>>>>> modified here
- This will override your global Git config settings in this one repository,
- but will not affect any other repositories.
